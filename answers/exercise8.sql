@@ -1,0 +1,2 @@
+SELECT * FROM Courses
+WHERE CourseName NOT BETWEEN 10 AND 20;
